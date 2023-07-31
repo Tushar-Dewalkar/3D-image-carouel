@@ -14,7 +14,7 @@ To run the carousel locally, follow these steps:
 1. Clone the repository to your local machine:
 
 bash
-git clone https://github.com/your-username/3d-carousel.git
+git clone https://github.com/Tushar-Dewalkar/3D-image-carouel
 cd 3d-carousel
 
 
